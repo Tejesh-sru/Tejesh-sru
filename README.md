@@ -77,7 +77,7 @@
 
 ## 🏆 Achievements  
 
-- ⭐ Solved **200+ DSA problems**
+- ⭐ Solved **250+ DSA problems**
 - 🥇 Active competitive programmer
 - 🚀 Built multiple **production-ready projects**
 

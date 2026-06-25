@@ -81,7 +81,7 @@
 - 🥇 Active competitive programmer
 - 🚀 Built multiple **production-ready projects**
 
----
+--- 
 
 ## 🤝 Connect With Me  
 
